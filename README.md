@@ -1,4 +1,4 @@
-Digital Solutions Agency Website
+<a href="https://webliso.trendzyo.site/">Digital Solutions Agency Website </a>
 Project Overview
 
 This repository contains the complete WordPress-based website built for [Client Name], a modern digital solutions agency. The website showcases the client’s full range of services, combining professional design, interactive features, and cutting-edge technology solutions.
@@ -20,5 +20,6 @@ SEO-optimized pages for search visibility.
 Modular structure to easily update content and add services.
 Integration of plugins for performance, security, and analytics.
 
+Website url : https://webliso.trendzyo.site/
 
-<img src="/website.jpg" alt="Company Logo">
+<img src="website.png" alt="Company Logo">
